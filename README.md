@@ -1,6 +1,15 @@
-# TEIA
+# 🕸️ TEIA
 
 A TEIA é uma aplicação mobile desenvolvida em React Native que conecta pessoas neurodivergentes a profissionais especializados e locais adaptados para terapias, esportes e arte.
+
+O nome "TEIA" foi escolhido devido à sua simbologia e ao alinhamento com a missão e os valores do projeto, que pode ser resumido em 5 tópicos.
+
+- Rede de Suporte: Representa a conexão e o suporte oferecidos a pessoas neurodivergentes.
+- Acrônimo Significativo: TEIA resume os pilares Terapia, Esporte, Inclusão e Arte.
+- Imagem de Conexão: Evoca a ideia de uma rede interligada para unir pessoas e serviços especializados.
+- Versatilidade: Facilmente aplicável em campanhas de publicidade.
+- Nome Memorável: Simples, curto e fácil de lembrar, ideal para uma marca acessível e forte.
+
 
 ## Índice
 - [Sobre o Projeto](#sobre-o-projeto)
