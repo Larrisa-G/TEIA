@@ -1,0 +1,28 @@
+ método .sort()  
+
+o prefixo 'handle' é utilizado para indicar que a função "lida" ou "trata" um evento ou ação do usuário. 
+
+O operador spread '...y' cria uma cópia do estado atual de y. Isso é necessário porque, em React, não devemos modificar o estado diretamente; devemos sempre criar uma nova versão do estado.
+atualiza o estado preservando as propriedades não modificadas e alterando apenas as partes necessárias
+
+throw  ->  Lança o erro para ser tratado na função que chamou, que pode optar por exibir um alerta para o usuário, por exemplo. Isso é utíl para delimitar até onde é atribuição do front e do back.
+
+<> </>  ->  'Fragmento', Contêiner "invisível" para envolver múltiplos elementos sem adicionar nós extras ao DOM.
+
+Estados excessivos ->  Muitos estados individuais podem ser combinados em um único objeto de estado para simplificar o código.
+
+Separação de responsabilidades ->  Em uma função que tem muita lógica interna, podemos mover parte para funções auxiliares.
+
+tinha fei to um estado para cada campo, a IA sugeriu agrupar em um estsdo só.
+Antes da função handleChange, estava usando uma função separada para atualizar cada campo, o que tornava o código longo e redundante.
+
+style -> Estiliza o próprio componente. Afeta aspectos externos, como a largura, altura, cor de fundo ou bordas
+contentContainerStyle -> Estiliza o contêiner interno onde os elementos filhos do componente são renderizados.
+
+    //const [busca, setBusca] = useState({
+    //profissional: [], servico: [],  convenios: [], modalidade: [], estado: [], cidade: [], 
+    //terapias: [], musica: [], esportes: [], dancas: [],
+  //});
+
+
+{ profissionais: [], servico: '',  convenios: [], modalidade: '', estado: '', cidades: [], terapias: [], musica: [], esportes: [], dancas: [], artes: []}
